@@ -1,0 +1,11 @@
+<nav aria-label="Auxiliary" class="aux-nav">
+  <ul class="aux-nav-list">
+    {% for link in site.aux_links %}
+      <li class="aux-nav-list-item">
+        
+          {{ link.first }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
