@@ -4,7 +4,7 @@ layout: page
 nav_order: 2
 ---
 # Imlareth Varraque
-*Master of Mitholian, Prince Varraque*
+**Master of Mitholian, Prince Varraque**
 
 *Short description*
 ## Bio
