@@ -31,18 +31,18 @@ $red-200: #e94c4c;
 $red-300: #dd2e2e;
 
 //color template
-$body-background-color: $grey-dk-300;
-$body-heading-color: $gold-100;
-$body-text-color: $gold-200;
-$link-color: $blue-000;
-$nav-child-link-color: $grey-dk-000;
-$sidebar-color: $grey-dk-300;
-$base-button-color: $grey-dk-250;
-$btn-primary-color: $gold-200;
-$code-background-color: #31343f; // OneDarkJekyll default for syntax-one-dark-vivid
-$code-linenumber-color: #dee2f7; // OneDarkJekyll .nf for syntax-one-dark-vivid
+//$color-scheme: light;
+$body-background-color: $white;
+$body-heading-color: $grey-dk-300;
+$body-text-color: $grey-dk-100;
+$link-color: $gold-000;
+$nav-child-link-color: $grey-dk-100;
+$sidebar-color: $grey-lt-000;
+$base-button-color: #f7f7f7;
+$btn-primary-color: $gold-100;
+$code-background-color: $grey-lt-000;
 $feedback-color: darken($sidebar-color, 3%);
-$table-background-color: $grey-dk-250;
-$search-background-color: $grey-dk-250;
+$table-background-color: $white;
+$search-background-color: $white;
 $search-result-preview-color: $grey-dk-000;
-$border-color: $grey-dk-200;
+
