@@ -3,7 +3,7 @@ title: Mitholian
 layout: page
 nav_order: 3
 ---
-# MITHOLIAN
+# Mitholian
 **The Citadel**\
 *Orbiting the Starry Shores on the astral plane*
 
