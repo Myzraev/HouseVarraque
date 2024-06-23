@@ -1,6 +1,7 @@
 ---
 title: Mitholian
 layout: page
+nav_order: 3
 ---
 # MITHOLIAN
 **The Citadel**
