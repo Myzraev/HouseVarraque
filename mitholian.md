@@ -6,7 +6,7 @@ nav_order: 3
 # MITHOLIAN
 **The Citadel**,*orbiting the Starry Shores on the astral plane*
 
-Deep within the expanse of the Astral Plane lies Mitholian, a formidable citadel carved into the vast skull of a dead god. Ruled with unwavering authority by [[Imlareth Varraque]], a necromancer of immense power, Mitholian stands as a bastion of arcane mastery and necromantic might.
+Deep within the expanse of the Astral Plane lies Mitholian, a formidable citadel carved into the vast skull of a dead god. Ruled with unwavering authority by Imlareth Varraque, a necromancer of immense power, Mitholian stands as a bastion of arcane mastery and necromantic might.
 
 The skull's exterior resembles a darkened wizard's tower, its jagged spires and arches casting ominous shadows against the ethereal mist that swirls around it. Within its hollowed depths, Mitholian's labyrinthine streets wind through shadowed alleys and towering necropolis spires. Here, both living underlings and undead constructs serve Imlareth Varraque under the veil of dark magic, perpetuating his dominion over life and death.
 
