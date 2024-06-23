@@ -1,8 +1,8 @@
 ---
 title: Mitholian
-layout: home
+layout: page
 ---
-Test 123
+This is a test page
 
 
 ----
