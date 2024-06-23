@@ -20,4 +20,5 @@ It was with a heavy yet defiant heart that Imlareth decided to cast aside the ex
 
 ## Wargear
 *"List of notable wargear used by the character"*
+
 ----
