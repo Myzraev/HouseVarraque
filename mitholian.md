@@ -38,6 +38,3 @@ As towers rose and necropolis spires stretched towards the astral skies, Mitholi
   Nestled within the cavernous maw of Mitholian's colossal skull, Port Gravemaw serves as the citadel's rare and mysterious gateway to the astral seas. Though visits from spelljammers are infrequent, the port is a crucial hub for the exchange of rare arcane artifacts and even souls. The air is thick with the scent of incense and necrotic energies, and the dockyards bustle with the activity of undead laborers and enchanted constructs. Arcane runes and powerful wards adorn the walls, safeguarding the port's secrets and ensuring the security of its operations. For those who dare to venture into Mitholian, Port Gravemaw is the first step into a world of dark magic and ancient power.
 - **The Keep**:
   WIP
-
-----
-
