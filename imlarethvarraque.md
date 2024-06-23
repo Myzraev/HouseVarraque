@@ -6,7 +6,7 @@ nav_order: 2
 # Imlareth Varraque
 *Master of Mitholian, Prince Varraque*
 
-*"Short description"*
+*Short description*
 ## Bio
 *"Full biography, further split into subheadings if necessary"*
 ## Abilities
