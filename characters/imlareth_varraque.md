@@ -2,7 +2,7 @@
 title: Imlareth Varraque
 layout: page
 parent: Characters
-nav_order: 1
+nav_order: 
 ---
 # Imlareth Varraque
 **Prince Varraque, Master of Mitholian**
