@@ -1,5 +1,5 @@
 ---
-title: Characters
+title: characters
 layout: page
 nav_order: 2
 has_children: true
