@@ -4,7 +4,7 @@ layout: page
 parent: Places
 nav_order: 
 ---
-# Mitholian
+# Mitholian  
 **The Citadel**  
 *Orbiting the Starry Shores on the astral plane*  
 
@@ -12,11 +12,11 @@ Deep within the expanse of the Astral Plane lies Mitholian, a formidable citadel
 
 The skull's exterior resembles a darkened wizard's tower, its jagged spires and arches casting ominous shadows against the ethereal mist that swirls around it. Within its hollowed depths, Mitholian's labyrinthine streets wind through shadowed alleys and towering necropolis spires. Here, both living underlings and undead constructs serve Imlareth Varraque under the veil of dark magic, perpetuating his dominion over life and death.
 
-Within the center of Mitholian's Crown, amidst its sepulchers and towers, lies a square where arcane portals shimmer with otherworldly energy. These portals serve as the primary means of travel to and from the citadel, connecting it to distant realms across the Multiverse. Port Gravemaw, nestled within the skull's cavernous maw, remains a rare and coveted hub of activity amidst the silent astral void, where occasional spelljammers dock to trade in rare arcana, artifacts, and exotic materials.
+Within the center of Mitholian's Crown, amidst its sepulchers and towers, lies a plaza where arcane portals shimmer with otherworldly energy. These portals serve as the primary means of travel to and from the citadel, connecting it to distant realms across the Multiverse. Port Gravemaw, nestled within the skull's cavernous maw, remains a rare and coveted hub of activity amidst the silent astral void, where occasional spelljammers dock to trade in rare arcana, artifacts, and exotic materials.
 
 The air within Mitholian carries the scent of incense and necrotic energies, while arcane runes and wards shimmer ominously upon the citadel's walls, safeguarding its necromantic secrets from prying eyes. Whispers of forgotten lore and the clinking of bone echo through the ethereal corridors, beckoning adventurers to tread carefully or face the wrath of its master, the Lord Varraque. The citadel stands as a testament to his mastery over death and magic, a dark sanctuary within the ever-shifting planes of existence.
 
-## History
+## History  
 The citadel of Mitholian, perched within the immense skull of an eons-old, nameless god afloat in the Astral Plane, bears witness to a history shrouded in the mists of time. The skull itself is a relic of ancient epochs, where only the gods would recall the forgotten name of the deity it once was.
 
 The foundation of Mitholian's power lies in a pact forged by Imlareth with a devil from Baator, a pact that granted him access to a damaged yet intact Mythallar from the lost empire of Netheril. Through arcane prowess and infernal influence, Imlareth painstakingly repaired and altered the Mythallar's ancient enchantments, reshaping its magical properties to fuel the citadel with immense arcane energies.
@@ -27,7 +27,7 @@ As towers rose and necropolis spires stretched towards the astral skies, Mitholi
 
 ## Points of Interest  
 ### The Crown
-This uppermost tier of Mitholian is known as the Crown. It encompasses the five grandest towers encircling the skull's apex, along with smaller towers and the central plaza. From a distance, this imparts the distinct impression of Mitholian's skull adorned with an enormous jagged crown.  
+  The uppermost tier of Mitholian is known as the Crown. It encompasses the five grandest towers encircling the skull's apex, along with smaller towers and the central plaza. From a distance, this imparts the distinct impression of Mitholian's skull adorned with an enormous jagged crown.  
 ### Tor Szor'Vhal
   The largest and most imposing tower in Mitholian, serves as the private residence of Prince Imlareth Varraque. This towering fortress is a repository of Imlareth's most precious and powerful possessions, housing his extensive arcane libraries, secret magical vaults, a vast armory, and a sophisticated necromantic laboratory. Access to Tor Szor'Vhal is strictly prohibited to all but Imlareth himself, except for those rare individuals who receive a direct invitation from the Master of Mitholian. The tower radiates an aura of profound mystery and formidable power, embodying the dark and boundless mastery of its enigmatic owner.  
 ### Tor Maleficar
