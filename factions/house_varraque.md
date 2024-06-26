@@ -1,0 +1,11 @@
+---
+title: House Varraque
+layout: page
+parent: Factions
+nav_order: 
+---
+
+# House Varraque
+*Leader(s)*:
+*Objective*: Wealth & Power 
+*Base of Operations*: Silverlight Palace, Thalorien
