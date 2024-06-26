@@ -6,6 +6,6 @@ has_children: true
 ---
 
 # Places
-This section is dedicated to places (realms, countries, buildings, etc.) within the setting.
+This section is dedicated to places (realms, nations, buildings, etc.) within the setting.
 
 WIP
