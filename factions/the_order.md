@@ -1,10 +1,10 @@
 ---
-title: Order of Morast
+title: Order of Morncirth
 layout: page
 parent: Factions
 nav_order: 
 ---
-# The Order of Morast
+# The Order of Morncirth
 
 **Leader(s)**: Imlareth Varraque  
 **Type**: Circle of Magi  
