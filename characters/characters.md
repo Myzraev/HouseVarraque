@@ -4,3 +4,8 @@ layout: page
 nav_order: 3
 has_children: true
 ---
+
+# Characters
+This section is dedicated to characters and creatures within the setting.
+
+WIP
