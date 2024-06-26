@@ -9,4 +9,4 @@ nav_order:
 **Leader(s)**: Imlareth Varraque  
 **Type**: Circle of Magi  
 **Objectives**: Fighting and containing Abyssal threats, maintaining balance across the multiverse  
-**Base of Operations**: Mitholian  
+**Base of Operations**: Tor Zul'Karnath, Mitholian  
