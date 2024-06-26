@@ -5,7 +5,7 @@ nav_order: 3
 has_children: true
 ---
 
-# Locations
+# Places
 This section is dedicated to places (realms, countries, buildings, etc.) within the setting.
 
 WIP
