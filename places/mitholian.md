@@ -1,7 +1,7 @@
 ---
 title: Mitholian
 layout: page
-parent: Locations
+parent: Places
 nav_order: 1
 ---
 # Mitholian
