@@ -2,7 +2,7 @@
 title: Mitholian
 layout: page
 parent: Places
-nav_order: 1
+nav_order: 
 ---
 # Mitholian
 **The Citadel**\
