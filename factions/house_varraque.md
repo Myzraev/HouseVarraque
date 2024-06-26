@@ -6,6 +6,6 @@ nav_order:
 ---
 
 # House Varraque
-*Leader(s)*:
+*Leader(s)*: Prince Orlethym Varraque
 *Objective*: Wealth & Power 
 *Base of Operations*: Silverlight Palace, Thalorien
