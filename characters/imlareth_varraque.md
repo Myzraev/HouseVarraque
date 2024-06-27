@@ -6,7 +6,7 @@ nav_order:
 ---
 # Imlareth Varraque
 **Master of Mitholian**
-Imlareth of the House of Varraque, Master of Mitholian, is a necromancer of unparalleled renown. His influence extends across numerous realms, casting a shadow that evokes dread in some and a glimmer of hope in others.
+Imlareth of the House of Varraque, Master of Mitholian, is a necromancer of unparalleled renown. His influence extends across numerous realms, casting a shadow that evokes dread in most and a glimmer of hope in others.
 
 ## Early History
 Born beneath the shimmering veils of the astral cosmos in the renowned Port City of Thalorien, Imlareth Varraque was the first scion of the affluent Varraque family, led by his father Orlethym and mother Caevara. Though the celestial currents of his home on the Astral Plane were serene and timeless, Imlareth’s spirit was touched by a restlessness uncommon among his kind. From an early age, he exhibited a brilliant intellect and an impatience that set him apart from his kin, characteristics that were only sharpened by his interactions with the myriad shorter-lived races that frequented the markets of Thalorien.
