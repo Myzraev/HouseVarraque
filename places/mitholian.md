@@ -35,7 +35,7 @@ As towers rose and necropolis spires stretched towards the astral skies, Mitholi
 ### Tor Etherion
   This tower stands as a testament to the pursuit of knowledge within Mitholian, its towering structure largely devoted to an expansive library spanning floor upon floor. Thousands of books, containing wisdom from the mundane to the magical and wondrous line its endless shelves. This vast repository of knowledge is meticulously maintained by tireless undead caretakers, ensuring that the secrets of the ages remain preserved and accessible to those who manage to gain access.  
 ### Tor Zul'karnath
-  Tower of the order. WIP  
+  Tower of the Order of Morcirth. WIP  
 ### Tor Valthorne
   Rising as a monument to martial magic within Mitholian, embodying the warlike aspects of arcane power. The tower is a vast repository of knowledge on warfare, encompassing both magical knowledge and mundane strategies. Within its halls, martially inclined magi and warrior-mystics alike train rigorously, perfecting their combat skills in spacious arenas and enchanted training grounds. The tower stands as a crucible where the arts of war and magic are honed to deadly perfection.  
 ### Wayweave Plaza  
