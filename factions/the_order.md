@@ -20,6 +20,6 @@ Members of the Order are encouraged to gather personal power and maintain their 
 The Order of Morcirth is a testament to Imlareth's vision and mastery, upholding the delicate balance of the multiverse through relentless vigilance and unyielding resolve. Their commitment ensures that the demonic scourge is kept at bay, protecting countless realms from the chaos of the Abyss.  
 
 ## Known Members:  
-**Imlareth Varraque**:  
-**Orikos Kaerion**:  
-**Strolmir Anvilheart**: A once-renowned mountain dwarf artisan turned oath-bound conqueror, now channels his craftsmanship and martial might into a relentless pursuit of glory and adventure.   
+**Imlareth Varraque**  
+**Orikos Kaerion**  
+**Strolmir Anvilheart**: A once-renowned mountain dwarf artisan turned oath-bound conqueror, now channels his craftsmanship and martial might into a relentless pursuit of glory and adventure.  
